@@ -1,0 +1,3 @@
+l = ['can','pan','man','ran']
+test = list(map(list, l))
+print(test)

@@ -1,0 +1,12 @@
+{
+    "people1":[{
+    "fruit": "Apple",
+    "size": "Large",
+    "color": "Red"
+}],
+"people2":[{
+    "fruit": "Grapes",
+    "size": "small",
+    "color": "green"
+}]
+}
